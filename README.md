@@ -1,7 +1,7 @@
 # Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance 
 ## Introduction
 
-Pytorch implementation for MICCAI 2022 paper **[Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance](./)** by [Meirui Jiang](https://github.com/MeiruiJiang), [Hongzheng Yang](https://github.com/HongZhengYang), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Quande Liu](https://liuquande.github.io/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).
+Pytorch implementation for MICCAI 2022 paper **[Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance](https://github.com/med-air/imFedSemi)** by [Meirui Jiang](https://github.com/MeiruiJiang), [Hongzheng Yang](https://github.com/HongZhengYang), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Quande Liu](https://liuquande.github.io/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).
 
 <p align="center">
 <img src="./assets/intro.png" alt="intro" width="100%"/>
@@ -47,8 +47,8 @@ python test.py
 If this repository is useful for your research, please cite:
 
        @article{,
-         title={},
-         author={Jiang, Meirui and Yang, Hongzheng and Li, Xiaoxiao and Liu, Quande and Heng, Pheng-Ann and  Dou, Qi},
+         title={Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance},
+         author={Jiang, Meirui and Yang, Hongzheng and Li, Xiaoxiao and Liu, Quande and Heng, Pheng-Ann and Dou, Qi},
          journal={International Conference on Medical Image Computing and Computer Assisted Intervention},
          year={2022}
        }  
