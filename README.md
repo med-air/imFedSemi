@@ -46,7 +46,7 @@ python test.py
 ## Citation
 If this repository is useful for your research, please cite:
 
-       @article{,
+       @article{jiang2022imfedsemi,
          title={Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance},
          author={Jiang, Meirui and Yang, Hongzheng and Li, Xiaoxiao and Liu, Quande and Heng, Pheng-Ann and Dou, Qi},
          journal={International Conference on Medical Image Computing and Computer Assisted Intervention},
