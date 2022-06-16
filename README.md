@@ -52,5 +52,5 @@ If this repository is useful for your research, please cite:
          year={2022}
        }  
 
-### Questions
-Please contact 'mrjiang@cse.cuhk.edu.hk' or 'hzyang05@gmail.com'
+### Contact
+For any questions, please contact 'mrjiang@cse.cuhk.edu.hk' or 'hzyang05@gmail.com'
