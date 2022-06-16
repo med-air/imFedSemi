@@ -1,4 +1,4 @@
-# Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance 
+# Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance (imFedSemi)
 ## Introduction
 
 Pytorch implementation for MICCAI 2022 paper **[Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance](https://github.com/med-air/imFedSemi)** by [Meirui Jiang](https://github.com/MeiruiJiang), [Hongzheng Yang](https://github.com/HongZhengYang), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Quande Liu](https://liuquande.github.io/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).
