@@ -1,10 +1,10 @@
 # Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance (imFedSemi)
 
-Pytorch implementation for MICCAI 2022 paper **[Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance](https://github.com/med-air/imFedSemi)** by [Meirui Jiang](https://github.com/MeiruiJiang), [Hongzheng Yang](https://github.com/HongZhengYang), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Quande Liu](https://liuquande.github.io/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).
-
 <p align="center">
 <img src="./assets/intro.png" alt="intro" width="80%"/>
 </p>
+
+Pytorch implementation for MICCAI 2022 paper **[Dynamic Bank Learning for Semi-supervised Federated Image Diagnosis with Class Imbalance](https://github.com/med-air/imFedSemi)** by [Meirui Jiang](https://github.com/MeiruiJiang), [Hongzheng Yang](https://github.com/HongZhengYang), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Quande Liu](https://liuquande.github.io/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).
 
 ## Abstract
 > Despite recent progress on semi-supervised federated learning (FL) for medical image diagnosis, the problem of imbalanced class distributions among unlabeled clients is still unsolved for real-world use. In this paper, we study a practical yet challenging problem of class imbalanced semi-supervised FL (imFed-Semi), which allows all clients to have only unlabeled data while the server just has a small amount of labeled data. This imFed-Semi problem is addressed by a novel dynamic bank learning scheme, which improves client training by exploiting class proportion information. This scheme consists of two parts, the dynamic bank construction to distill various class proportions for each local client, and the sub-bank classification to impose the local model to learn different class proportions. We evaluate our approach on two public real-world medical datasets, including the intracranial hemorrhage diagnosis with 25,000 CT slices and skin lesion diagnosis with 10,015 dermoscopy images. The effectiveness of our method has been shown with significant performance improvements (7.61\% and 4.69\%) compared with the second-best on the accuracy, as well as comprehensive analytical studies.
