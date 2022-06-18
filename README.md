@@ -18,7 +18,9 @@ If there is no conda installed on your PC, please find the installers from [here
 If you have already installed conda, please use the following commands.
 
 ```bash
-conda install --file requirements.txt
+conda create -n imfedsemi python=3.7
+conda activate imfedsemi
+python -m pip install -r requirements.txt 
 ```
 **Pip**
 ```bash
