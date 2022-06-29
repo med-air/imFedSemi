@@ -2,11 +2,7 @@ import argparse
 
 def args_parser():
      parser = argparse.ArgumentParser()
-     # parser.add_argument('--root_path', type=str, default='/research/dept8/qdou/data/Skin/images', help='dataset root dir')
-     # parser.add_argument('--csv_file_train', type=str, default='data/skin_split/train.csv', help='training set csv file')
-     # parser.add_argument('--csv_file_val', type=str, default='data/skin_split/validation.csv', help='validation set csv file')
-     # parser.add_argument('--csv_file_test', type=str, default='data/skin_split/test.csv', help='testing set csv file')
-     parser.add_argument('--root_path', type=str, default='/research/dept8/qdou/data/RSNA-ICH/organized/stage_2_train', help='dataset root dir')
+     parser.add_argument('--root_path', type=str, default='/data/RSNA-ICH/', help='dataset root dir')
      parser.add_argument('--csv_file_train', type=str, default='data/brain_split/train.csv', help='training set csv file')
      parser.add_argument('--csv_file_val', type=str, default='data/brain_split/validation.csv', help='validation set csv file')
      parser.add_argument('--csv_file_test', type=str, default='data/brain_split/test.csv', help='testing set csv file')
