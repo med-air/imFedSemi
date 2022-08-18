@@ -28,8 +28,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset 
-Please download the brain dataset from [kaggle](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection) and preprocess it follow this [notebook](https://www.kaggle.com/guiferviz/prepare-dataset-resizing-and-saving-as-png). Or download the preprocessed data from [here.](https://drive.google.com/drive/folders/1AFkJn3B4ubhdNiuw3stUneVRitA8idEq?usp=sharing).
-Please download the skin dataset from this [link.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+Please download the brain dataset from [kaggle](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection) and preprocess it follow this [notebook](https://www.kaggle.com/guiferviz/prepare-dataset-resizing-and-saving-as-png). Please download the skin dataset from this [link.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
 
 
